@@ -1,0 +1,81 @@
+
+body{
+    font-family:Arial;
+    padding:30PX;
+    background:#f1f1f1;
+}
+
+/*ini kode untuk apa?*/
+.header{
+    padding:30PX;
+    text-align:center;
+    background:white;
+}
+
+.header h1 {font-size:50PX;}
+
+/*Style the top navigation bar*/
+.topnav{
+    overflow:hidden;
+    background-color:#333;
+}
+
+/* Style the topnav links*/
+.topnav a{
+    float:left;
+    display:block;
+    color:#f2f2f2;
+    text-align:center;
+    padding:14PX 16px;
+    text-decoration:none;
+}
+
+/*Change color on hover*/
+.topnav a:hover{
+    background-color:#ddd;
+    color:black;
+}
+
+/*Create two unequal columns that floats nextto each other*/
+/*Left column*/
+.leftcolumn {
+    float:left;
+    width:75%;
+}
+
+/*Right column*/
+.rightcolumn{
+    float:left;
+    widTH:25%;
+    background-color:#f1f1f1;
+    padding-left:20PX;
+}
+
+/*Fake image*/
+.fakeimg{
+    background-color:#aaa;
+    width:100%;
+    padding:20PX;
+}
+
+/*ini kode untuk artikel*/
+.card{
+background-color:white;
+padding:20PX;
+margin-top:20PX;
+}
+
+/*Clear floats after teh columns*/
+.row::after{
+    content:"";
+    display:table;
+    clear:both;
+}
+
+/*Footer*/
+.footer{
+    padding:20px;
+    text-align:center;
+    background:#ddd;
+    margin-top:20PX;
+}

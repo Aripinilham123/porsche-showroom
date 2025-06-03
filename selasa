@@ -1,0 +1,71 @@
+<html>
+<head>
+<link rel="stylsheet" herf="style.css">
+</head>
+<body>
+
+<div class=""header>
+    <h1>Yamaha Semakin du depan.</h1>
+</div>
+
+<div class="topnav">
+    <a href="#">Home</a>
+    <a href="#">Produk</a>
+    <a href="#">Sales</a>
+    <a href="#">About</a>
+ </div>
+
+ <div class="row">
+    <div class="leftcolum">
+
+        <div class="card">
+            <h2>R1M</h2>
+            <h5>otomotif,21 April 2017</h5>
+            <div class="fakeimage">
+               <img src="R1M.jpg" alt="R1M" />
+            </div>
+            <p>Yamaha R1M merupakan jenis motor sport dengan kapasitas mesin 1000 cc dapat mencapai kecepatan 200km/jam dalam waktu satu menit,
+                untuk harganya dibandrol dengan harga OTR sumedang Rp. 1.200.000.000 belum termasuk pajak</p>
+            </div>
+            <div class="card">
+            <h2>AEROX</h2>
+            <h5>Title descreption,Sep 2,2020</h5>
+            <div class="fakeimage">
+               <img src="aerox.html" alt="aerox" />
+            </div>
+            <p>Yamaha AEROX merupakan jenis motor dengan kapasitas mesin 150cc dapat mencapai kecepatan 100km/jam dalam waktu satu menit,Untuk harganya
+               dibandrol dengan harga OTR sumedang Rp.35.000.000 belum termasuk pajak.</p>
+               </div>
+
+               </div>
+               </div>
+
+               <div class="rifhtroom">
+               <div class="card">
+               <h2>About Me</h2>
+               <div class="fakeimage"style="height:100px;">image</div>
+               <p>Yamaha adalah salahsatu perusahaan multinasional yang beroperasi dalam
+                  memasarkan produk otomotif yang mencakup sepeda motor sparepart dan lain-lain</p>
+                </div>
+
+                <div class="card">
+                    <h3>Popular Me</h3>
+                    <div class="fakeimage"><p>image</p></div>
+                    <div class="fakeimgae"><p>image</p></div>
+                    <div class="fakeimage"><p>image</p></div>
+                </div>
+
+                <div class="card">
+                    <h3>Follow Me</h3>
+                    <p>Some text.</p>
+                </div>
+
+                </div>
+                </div>
+
+                <div class="footer">
+                <h2>Footer</h2>
+                </div>
+
+                </body>
+                </html>
